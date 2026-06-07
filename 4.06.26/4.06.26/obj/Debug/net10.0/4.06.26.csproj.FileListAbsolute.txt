@@ -1,0 +1,14 @@
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\bin\Debug\net10.0\4.06.26.exe
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\bin\Debug\net10.0\4.06.26.deps.json
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\bin\Debug\net10.0\4.06.26.runtimeconfig.json
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\bin\Debug\net10.0\4.06.26.dll
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\bin\Debug\net10.0\4.06.26.pdb
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.AssemblyInfoInputs.cache
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.AssemblyInfo.cs
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.csproj.CoreCompileInputs.cache
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.dll
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\refint\4.06.26.dll
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.pdb
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\4.06.26.genruntimeconfig.cache
+C:\Users\somewhere\source\repos\4.06.26\4.06.26\obj\Debug\net10.0\ref\4.06.26.dll
