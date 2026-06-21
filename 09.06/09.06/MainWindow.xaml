@@ -1,0 +1,16 @@
+﻿<Window x:Class="ColorsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Color Buttons" Height="450" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <!-- 2/3 ширины -->
+            <ColumnDefinition Width="*" />
+            <!-- 1/3 ширины -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Панель с кнопками, занимает 2/3 ширины окна -->
+        <WrapPanel Grid.Column="0" Margin="2" Name="ButtonsPanel" />
+    </Grid>
+</Window>
