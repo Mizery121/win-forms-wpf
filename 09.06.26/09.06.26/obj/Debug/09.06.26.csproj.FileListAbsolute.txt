@@ -1,0 +1,14 @@
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\bin\Debug\09.06.26.exe.config
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\bin\Debug\09.06.26.exe
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\bin\Debug\09.06.26.pdb
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.csproj.AssemblyReference.cache
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\MainWindow.baml
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\MainWindow.g.cs
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\App.g.cs
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26_MarkupCompile.cache
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.g.resources
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\_09._06._26.Properties.Resources.resources
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.csproj.GenerateResource.cache
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.csproj.CoreCompileInputs.cache
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.exe
+C:\Users\somewhere\source\repos\09.06.26\09.06.26\obj\Debug\09.06.26.pdb
