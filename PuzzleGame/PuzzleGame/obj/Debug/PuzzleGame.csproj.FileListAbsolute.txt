@@ -1,0 +1,15 @@
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\somewhere\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
