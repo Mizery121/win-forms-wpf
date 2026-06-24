@@ -1,0 +1,9 @@
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.AssemblyReference.cache
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.cache
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\somewhere\source\repos\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
